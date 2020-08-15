@@ -1,0 +1,3 @@
+C:/Users/hafsa/CLionProjects/phonebook_project/cmake-build-debug/CMakeFiles/phonebook_project.dir
+C:/Users/hafsa/CLionProjects/phonebook_project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hafsa/CLionProjects/phonebook_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
